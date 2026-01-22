@@ -10,7 +10,8 @@ accounts:
   message: "Welcome to EazyBank accounts related prod APIs "
   contactDetails:
     name: "Aman Sharma- Product Owner"
-    email: "amansharma@eazybank.com"
+    email: "{cipher}09347fa253df5f1e6fff1a46eaf4e125b08b0993a823edb38976fabaa387a4478a2ebb5b93454ad814f391852377a6cb"
   onCallSupport:
     - (453) 392-4829
+
     - (236) 203-0384
